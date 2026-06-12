@@ -1,7 +1,7 @@
 ## 안녕하세요, Backend 개발자 Jibeom Ryu입니다.
 
 저는 앱 & 웹 개발, AI 기반 서비스, 컴퓨터 비전 프로젝트에 관심이 있으며, 실제 문제를 해결할 수 있는 실용적인 소프트웨어를 만드는 것을 목표로 하고 있습니다.  
-SUNY Korea, Stony Brook University Computer Science를 전공과정에서 React, Node.js, Express, MongoDB, Python 등을 활용한 프로젝트 경험이 있으며, AI 툴(Gemini, ChatGPT, Cursor 등)을 활용하고 GitHub를 통한 협업 개발과 문서화 경험도 가지고 있습니다.
+SUNY Korea, Stony Brook University에서 Computer Science 전공하며 React, Node.js, Express, MongoDB, Python 등을 활용한 프로젝트 경험이 있으며, AI 툴(Gemini, ChatGPT, Cursor 등)을 활용하고 GitHub를 통한 협업 개발과 문서화 경험도 가지고 있습니다.
 
 <br>
 
