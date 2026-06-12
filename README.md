@@ -30,7 +30,7 @@ SUNY Korea, Stony Brook University에서 Computer Science 전공하며 React, No
 <br>
 
 - [**Once Alarm**](https://play.google.com/store/apps/details?id=com.ezalarm&hl=ko) 사용자의 알람 경험을 개선하기 위한 모바일 앱 프로젝트  
-  사용자가 더 편리하게 알람을 설정하고 관리할 수 있도록 설계한 모바일 앱 프로젝트입니다.  
+  사용자가 더 편리하게 알람을 설정하고 관리할 수 있도록 설계한 개인 AI 툴 기반 모바일 앱 프로젝트입니다.  
   Google OAuth를 통한 로그인 기능을 구현했으며, 모바일 환경에서 사용자가 간편하게 계정에 접근할 수 있도록 구성했습니다.  
   `개발 기간: 2026.02 ~ 현재`  
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
