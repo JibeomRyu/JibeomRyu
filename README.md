@@ -44,22 +44,22 @@ SUNY Korea, Stony Brook University에서 Computer Science 전공하며 React, No
 ## 🛠️ Tech Stacks
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=Express\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=Firebase\&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=Discord\&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge\&logo=Github\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge\&logo=Javascript\&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=Java\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=PostgreSQL\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=MySQL\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=Node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=Python\&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=Firebase\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=React\&logoColor=white)
 ![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge\&logo=React\&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=Discord\&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge\&logo=Github\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=Android\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=Kotlin\&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=Cursor\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge\&logo=Javascript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=Java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=Python\&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=PostgreSQL\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=MySQL\&logoColor=white)
+
 
 <br>
 
