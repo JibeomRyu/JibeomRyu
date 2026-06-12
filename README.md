@@ -14,6 +14,7 @@ React, Node.js, Express, MongoDB, Python 등을 활용한 프로젝트 경험이
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
   ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
   ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-282d33?style=flat)
+  ![ByteTrack](https://img.shields.io/badge/ByteTrack-Object%20Tracking-8A2BE2?style=flat)
 
 <br>
 
