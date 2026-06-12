@@ -9,7 +9,7 @@ React, Node.js, Express, MongoDB, Python 등을 활용한 프로젝트 경험이
 
 - [**JJADS**](https://github.com/JibeomRyu/JJADS) 실시간 도로 객체 탐지 및 충돌 위험 분석 시스템  
   YOLO 기반 객체 탐지 결과와 Bounding Box 변화량을 활용하여 도로 위 객체의 접근 위험도를 분석하는 Computer Vision 프로젝트입니다.  
-  `개발 기간: 2026.04 ~ 2026.06`  
+  `프로젝트 기간: 2026.04 ~ 2026.06`  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
   ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
@@ -17,20 +17,19 @@ React, Node.js, Express, MongoDB, Python 등을 활용한 프로젝트 경험이
 
 <br>
 
-- [**MBTInduce**](https://github.com/JibeomRyu/MBTInduce) 사용자의 성향에 맞게 AI 응답 방식을 조절하는 웹 서비스  
-  사용자가 원하는 MBTI 기반 응답 스타일을 설정하고, AI가 성향에 맞는 답변을 제공하도록 설계한 AI 기반 웹 프로젝트입니다.  
-  `개발 기간: 2026.03 ~ 현재`  
+- [**MBTInduce**](https://github.com/printseungjoo/MBTInduce) 사용자의 성향에 맞게 AI 응답 방식을 조절하는 웹 서비스  
+  사용자가 원하는 MBTI 기반 응답 스타일을 설정하고, AI가 성향에 맞는 답변을 제공하도록 설계한 AI 기반 웹 협업 프로젝트입니다.  
+  `개발 기간: 2026.03 ~ 2026.06`  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 <br>
 
-- [**OneAlarm**](https://github.com/JibeomRyu) 사용자의 알람 경험을 개선하기 위한 모바일 앱 프로젝트  
+- [**OneAlarm**](https://play.google.com/store/apps/details?id=com.ezalarm&hl=ko) 사용자의 알람 경험을 개선하기 위한 모바일 앱 프로젝트  
   사용자가 더 편리하게 알람을 설정하고 관리할 수 있도록 설계한 모바일 앱 프로젝트입니다.  
-  `개발 기간: 2026.05 ~ 현재`  
+  `개발 기간: 2026.02 ~ 현재`  
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
   ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
