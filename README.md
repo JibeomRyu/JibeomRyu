@@ -1,8 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=#b897ff&height=120&text=Hello,%20everyone!&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 저는 Stony Brook University에서 컴퓨터공학을 전공하고 Backend 개발자를 꿈꾸고 있는 Jibeom Ryu입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, Backend 개발자 Jibeom Ryu입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 앱 & 웹 개발, AI 기반 서비스, 컴퓨터 비전 프로젝트에 관심이 있으며, 실제 문제를 해결할 수 있는 실용적인 소프트웨어를 만드는 것을 목표로 하고 있습니다. React, Node.js, Express, MongoDB, Python 등을 활용한 프로젝트 경험이 있으며, AI 툴(Gemini, ChatGPT, Cursor 등)을 활용하고 GitHub를 통한 협업 개발과 문서화 경험도 가지고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
