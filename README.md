@@ -18,22 +18,26 @@ SUNY Korea, Stony Brook University에서 Computer Science 전공하며 React, No
 
 <br>
 
-- [**MBTInduce**](https://github.com/printseungjoo/MBTInduce) [**MBTInduce Website**](https://www.mbtinduce.com/)사용자의 성향에 맞게 AI 응답 방식을 조절하는 웹 서비스  
+- [**MBTInduce**](https://github.com/printseungjoo/MBTInduce) [**MBTInduce Website**](https://www.mbtinduce.com/) 사용자의 성향에 맞게 AI 응답 방식을 조절하는 웹 서비스  
   사용자가 원하는 MBTI 기반 응답 스타일을 설정하고, AI가 성향에 맞는 답변을 제공하도록 설계한 AI 기반 웹 협업 프로젝트입니다.  
+  로그인 기능은 Google OAuth를 기반으로 동작하며, AI API는 GPT-4o-mini 모델을 사용했습니다.  
   `개발 기간: 2026.03 ~ 2026.06`  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 
 <br>
 
 - [**OneAlarm**](https://play.google.com/store/apps/details?id=com.ezalarm&hl=ko) 사용자의 알람 경험을 개선하기 위한 모바일 앱 프로젝트  
   사용자가 더 편리하게 알람을 설정하고 관리할 수 있도록 설계한 모바일 앱 프로젝트입니다.  
+  Google OAuth를 통한 로그인 기능을 구현했으며, 모바일 환경에서 사용자가 간편하게 계정에 접근할 수 있도록 구성했습니다.  
   `개발 기간: 2026.02 ~ 현재`  
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
   ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=Cursor&logoColor=white)
 
 <br>
 
@@ -54,6 +58,8 @@ SUNY Korea, Stony Brook University에서 Computer Science 전공하며 React, No
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white)
 
 <br>
 
