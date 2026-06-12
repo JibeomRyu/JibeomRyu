@@ -18,7 +18,7 @@ SUNY Korea, Stony Brook University에서 Computer Science 전공하며 React, No
 
 <br>
 
-- [**MBTInduce**](https://github.com/printseungjoo/MBTInduce) 사용자의 성향에 맞게 AI 응답 방식을 조절하는 웹 서비스  
+- [**MBTInduce**](https://github.com/printseungjoo/MBTInduce) [**MBTInduce Website**](https://www.mbtinduce.com/)사용자의 성향에 맞게 AI 응답 방식을 조절하는 웹 서비스  
   사용자가 원하는 MBTI 기반 응답 스타일을 설정하고, AI가 성향에 맞는 답변을 제공하도록 설계한 AI 기반 웹 협업 프로젝트입니다.  
   `개발 기간: 2026.03 ~ 2026.06`  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
