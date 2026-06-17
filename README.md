@@ -7,7 +7,7 @@ SUNY Korea, Stony Brook University에서 Computer Science 전공하며 React, No
 
 ## 🚀 프로젝트 경험
 
-* [**JJADS**](https://github.com/JibeomRyu/JJADS) 실시간 도로 객체 탐지 및 충돌 위험 분석 시스템
+* [**JJADS**](https://github.com/JibeomRyu/JJADS) [**JJADS Overleaf**](https://www.overleaf.com/project/6a28bec16aaa4f5164c10c6a) 실시간 도로 객체 탐지 및 충돌 위험 분석 시스템
   YOLO 기반 객체 탐지 결과와 Bounding Box 변화량을 활용하여 도로 위 객체의 접근 위험도를 분석하는 Computer Vision 협업 프로젝트입니다.
   `프로젝트 기간: 2026.04 ~ 2026.06`
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=Python\&logoColor=white)
