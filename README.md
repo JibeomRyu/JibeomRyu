@@ -41,6 +41,21 @@ State University of New York, Stony Brook University에서 Computer Science 전�
 
 <br>
 
+* [**ReCu**](https://github.com/LGCNS-AM06-8/mini8-backend) [**ReCu Website**](https://mini8-frontend.vercel.app/landing) 사용자 맞춤형 기술 블로그 추천 및 AI 읽기 가이드 서비스  
+  사용자의 경력, 보유 기술, 관심 기술과 희망 직무를 기반으로 기업 기술 블로그를 추천하고, 선택한 글을 사용자 수준에 맞게 읽을 수 있도록 Gemini 기반 AI 가이드를 제공하는 6인 협업 프로젝트입니다.  
+  백엔드 개발을 담당하여 게시글 상세 조회, 기업별 게시글 조회와 Gemini 기반 AI 읽기 가이드 및 프롬프트를 구현했으며, AI 응답의 형식과 데이터 유효성을 검증하여 잘못된 결과가 저장되지 않도록 구성했습니다.  
+  `개발 기간: 2026.09.21 ~ 2026.09.30`  
+  ![Java](https://img.shields.io/badge/Java%2017-007396?style=flat&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.4.5-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+  ![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+  ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+  ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+<br>
+
 ## 🛠️ Tech Stacks
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=Express\&logoColor=white)
